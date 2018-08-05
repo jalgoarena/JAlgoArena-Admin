@@ -1,0 +1,1 @@
+export {ProblemsAdminPage} from "./pages/admin";
